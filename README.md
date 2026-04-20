@@ -25,6 +25,7 @@ A full-stack restaurant ordering application with QR code-based ordering, real-t
 - Place orders
 - Real-time order status tracking (received → preparing → ready → served)
 - View order history by table
+  
 
 ### Admin Side
 - Simple password-based login
